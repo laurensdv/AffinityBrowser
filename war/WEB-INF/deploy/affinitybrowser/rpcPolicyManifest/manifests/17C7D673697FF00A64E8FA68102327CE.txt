@@ -1,0 +1,2 @@
+serviceClass: org.scientificprofiling.affinitybrowser.client.MyService
+path: E5784C128CB9526F21CFA72563498A37.gwt.rpc
